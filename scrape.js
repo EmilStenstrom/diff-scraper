@@ -113,7 +113,6 @@ function compare_urls(url1, url2) {
             var article2 = traverse(window2.document.body, [], url2);
             var diffs = diff_helper(article1, article2);
             diffs.forEach(function(change){
-                filter_out(change.value);
                 console.log(change.value);
             });
         });

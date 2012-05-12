@@ -5,3 +5,4 @@ node scrape.js http://www.dn.se/nyheter/sverige/serieskyttens-van-tipsade-polise
 node scrape.js http://www.dn.se/nyheter/sverige/nio-av-tio-kan-inte-borsta-tanderna http://www.dn.se/nyheter/sverige/fasadklattrare-kan-vara-pa-stoldturne
 node scrape.js http://www.gp.se/sport/1.941780-fjarde-raka-sm-guldet-for-savehofs-damer http://www.gp.se/sport/1.941278-rohlin-korsbandsskadad-missar-os
 node scrape.js http://www.vg.no/nyheter/innenriks/artikkel.php?artid=10053327 http://www.vg.no/nyheter/innenriks/norsk-politikk/artikkel.php?artid=10053317
+node scrape.js http://edition.cnn.com/2012/05/12/world/meast/syria-turkish-journalists/index.html?hpt=hp_t1 http://edition.cnn.com/2012/05/11/world/syria-war-crimes-stories/index.html?hpt=hp_t1
